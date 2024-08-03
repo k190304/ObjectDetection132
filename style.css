@@ -1,0 +1,21 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.tap
+{
+    background-color: indianred;
+    border-color: indianred ;
+    width: 700px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
